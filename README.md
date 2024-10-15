@@ -56,13 +56,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
----
-
-### 🧑‍💼 Methodologies
-- Agile • SOLID • CRUDE • Clean Architecture
-
-### 📄 Additional Skills
-- Writing **whitepapers**
 
 ---
 
